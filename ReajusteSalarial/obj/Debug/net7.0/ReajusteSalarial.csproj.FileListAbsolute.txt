@@ -1,0 +1,15 @@
+C:\Projects C#\ReajusteSalarial\bin\Debug\net7.0\ReajusteSalarial.exe
+C:\Projects C#\ReajusteSalarial\bin\Debug\net7.0\ReajusteSalarial.deps.json
+C:\Projects C#\ReajusteSalarial\bin\Debug\net7.0\ReajusteSalarial.runtimeconfig.json
+C:\Projects C#\ReajusteSalarial\bin\Debug\net7.0\ReajusteSalarial.dll
+C:\Projects C#\ReajusteSalarial\bin\Debug\net7.0\ReajusteSalarial.pdb
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.AssemblyInfoInputs.cache
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.AssemblyInfo.cs
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.dll
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\refint\ReajusteSalarial.dll
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.pdb
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ReajusteSalarial.genruntimeconfig.cache
+C:\Projects C#\ReajusteSalarial\obj\Debug\net7.0\ref\ReajusteSalarial.dll
